@@ -1,0 +1,74 @@
+<list>
+  <Questao>
+    <questao>No verso: � Devagar... as janelas olham. O termo &quot;as janelas&quot; � um sujeito:</questao>
+    <resposta>Simples</resposta>
+    <erro1>Inexistente</erro1>
+    <erro2>Oculto</erro2>
+    <erro3>Composto</erro3>
+    <erro4>Indeterminado</erro4>
+  </Questao>
+  <Questao>
+    <questao>As palavras presentes no poema: �casas, mulheres, homem,  cachorro e  burro� s�o:</questao>
+    <resposta>Substantivos</resposta>
+    <erro1>Adjetivos</erro1>
+    <erro2>Verbos</erro2>
+    <erro3>Pronome</erro3>
+    <erro4>Adv�rbios</erro4>
+  </Questao>
+  <Questao>
+    <questao>Assinale a alternativa que apresenta o valor sem�ntico adequado para &quot;portanto&quot;</questao>
+    <resposta>Conclus�o</resposta>
+    <erro1>Contradi��o</erro1>
+    <erro2>Adi��o</erro2>
+    <erro3>Explica��o</erro3>
+    <erro4>Causa</erro4>
+  </Questao>
+  <Questao>
+    <questao>�Portanto�, pode ser substitu�do, sem preju�zo de sentido, por:</questao>
+    <resposta>Dessa forma</resposta>
+    <erro1>A fim de</erro1>
+    <erro2>Mas</erro2>
+    <erro3>Contudo</erro3>
+    <erro4>Entretanto</erro4>
+  </Questao>
+  <Questao>
+    <questao>�� um livro que prende o leitor�. No sentido conotativo (figurado), a express�o em destaque pode ser substitu�da por:</questao>
+    <resposta>Envolvente</resposta>
+    <erro1>Barato</erro1>
+    <erro2>Cansativo</erro2>
+    <erro3>Perigoso</erro3>
+    <erro4>Animador</erro4>
+  </Questao>
+  <Questao>
+    <questao>Qual a classe gramatical do termo equivalente a �que prende o leitor�, apontado no exerc�cio anterior?</questao>
+    <resposta>Adjetivo</resposta>
+    <erro1>Verbo</erro1>
+    <erro2>Substantivo</erro2>
+    <erro3>Numeral</erro3>
+    <erro4>Adv�rbio</erro4>
+  </Questao>
+  <Questao>
+    <questao>�Escrever uma mensagem dando os parab�ns�, �Listar n�meros de telefones�. Estas a��es podem ser executadas, utilizando-se de um recurso tecnol�gico que � a(o)... </questao>
+    <resposta>Internet</resposta>
+    <erro1>Not�cia</erro1>
+    <erro2>Bilhete</erro2>
+    <erro3>Cartaz</erro3>
+    <erro4>Carta</erro4>
+  </Questao>
+  <Questao>
+    <questao>Escolha a palavra que est� graficamente acentuada pela mesma regra que determina o acento em m�dico.</questao>
+    <resposta>P�tala</resposta>
+    <erro1>Sabi�</erro1>
+    <erro2>Mod�stia</erro2>
+    <erro3>M�goa</erro3>
+    <erro4>N/A</erro4>
+  </Questao>
+  <Questao>
+    <questao>Escolha a alternativa em que esta o verbo:</questao>
+    <resposta>Despertar</resposta>
+    <erro1>Poderoso</erro1>
+    <erro2>Embora</erro2>
+    <erro3>Somente</erro3>
+    <erro4>Amor</erro4>
+  </Questao>
+</list>

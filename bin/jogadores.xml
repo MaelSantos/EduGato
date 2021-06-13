@@ -1,0 +1,65 @@
+<list>
+  <Jogador>
+    <nome>felipe</nome>
+    <pontos>10</pontos>
+    <vida>100</vida>
+    <acertos>
+      <Questao>
+        <questao>1 + 6</questao>
+        <resposta>7</resposta>
+        <erro1>5</erro1>
+        <erro2>6</erro2>
+        <erro3>3</erro3>
+        <erro4>10</erro4>
+      </Questao>
+    </acertos>
+    <erros/>
+  </Jogador>
+  <Jogador>
+    <nome>ayrton</nome>
+    <pontos>0</pontos>
+    <vida>0</vida>
+    <acertos/>
+    <erros/>
+  </Jogador>
+  <Jogador>
+    <nome>mael</nome>
+    <pontos>20</pontos>
+    <vida>100</vida>
+    <acertos>
+      <Questao>
+        <questao>1 + 1</questao>
+        <resposta>2</resposta>
+        <erro1>0</erro1>
+        <erro2>1</erro2>
+        <erro3>3</erro3>
+        <erro4>4</erro4>
+      </Questao>
+      <Questao>
+        <questao>1 + 2</questao>
+        <resposta>3</resposta>
+        <erro1>4</erro1>
+        <erro2>2</erro2>
+        <erro3>1</erro3>
+        <erro4>5</erro4>
+      </Questao>
+    </acertos>
+    <erros/>
+  </Jogador>
+  <Jogador>
+    <nome>asdsa</nome>
+    <pontos>10</pontos>
+    <vida>100</vida>
+    <acertos>
+      <Questao>
+        <questao>1 + 1</questao>
+        <resposta>2</resposta>
+        <erro1>0</erro1>
+        <erro2>1</erro2>
+        <erro3>3</erro3>
+        <erro4>4</erro4>
+      </Questao>
+    </acertos>
+    <erros/>
+  </Jogador>
+</list>
